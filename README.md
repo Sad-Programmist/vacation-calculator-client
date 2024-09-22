@@ -13,11 +13,11 @@ GET "/calculacte"
 
 Клиент состоит из 1 главной страницы, на которой есть поля ввода: дата начала отпуска, дата конца отпуска и средняя зарплата за последние 12 месяцев.
 
-<p align="center"><img src="screen/MainPage.jpg" alt="MainPage" width="550"></p>
+<p align="center"><img src="screen/MainPage.JPG" alt="MainPage" width="550"></p>
 
 Если заполнить все необходимые поля и нажать на кнопку "Рассчитать", будет выведен размер отпускных.
 
-<p align="center"><img src="screen/MainPageWithResult.jpg" alt="MainPageWithResult" width="550"></p>
+<p align="center"><img src="screen/MainPageWithResult.JPG" alt="MainPageWithResult" width="550"></p>
 
 ## Реализация сервера
 
